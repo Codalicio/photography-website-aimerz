@@ -1,4 +1,6 @@
 1. Header
+    - Navbar >
+    - h1
     - logo
     - unordered nav links
     - button to an youtube video
