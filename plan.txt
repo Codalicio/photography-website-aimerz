@@ -62,7 +62,7 @@
 
 # Links :
 
-* Github : 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github : https://github.com/Codalicio/photography-website-aimerz
+* Github Pages : https://codalicio.github.io/photography-website-aimerz/
+* Netlify : https://starlit-platypus-da8090.netlify.app/
+* Vercel : https://photography-website-aimerz.vercel.app/
