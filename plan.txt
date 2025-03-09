@@ -1,0 +1,66 @@
+1. Header
+    - logo
+    - unordered nav links
+    - button to an youtube video
+
+2. Section-1
+    - h2
+    - p
+    - inactive button
+    - image-1
+    - image-2
+
+3. Section-2
+    - h2
+    - h2
+    - p
+    - inactive button
+
+4. Section-3
+    - h2
+    - image-1
+    - h3
+    - p
+    - image-2
+    - h3
+    - p
+    - image-3
+    - h3
+    - p
+    - image-4
+
+5. Section-4
+    - h2
+    - p
+
+6. Section-5
+    - h2
+    - p
+    - inactive button
+    - image-1
+    - p
+    - image-2
+    - p
+    - image-3
+    - p
+
+7. Section-6
+    - h2
+    - p
+    - image-1
+    - image-2
+    - image-3
+    - image-4
+    - image-5
+    - image-6
+
+8. Footer
+    - ul with 4 links li items
+    - p with copyright
+
+# Links :
+
+* Github : 
+* Github Pages : 
+* Netlify : 
+* Vercel : 
